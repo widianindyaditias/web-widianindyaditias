@@ -1,0 +1,90 @@
+<HTMl:5>
+    <!DOCTYPE html>
+<html lang="id">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Membuat Halaman Web Sederhana</title>
+</head>
+<body>
+
+    <h1>Anyeong Yareobun! Welcome To My Web</h1>
+    <h2>Halo semuanya, perkenalkan nama saya Widi Anindya Ditias atau akrab dipanggil Widi</h2>
+    <h3>Berikut halaman web sederhana saya</h3>
+    <hr>
+
+    <p>Ini contoh untuk tulisan <strong>TEBAL</strong>. kalau ini contoh buat tulisan 
+    <em>MIRING</em>.</p>
+
+    <p>Contoh <cite>kutipan miring</cite>, 
+    atau menggunakan <q>tanda petik</q>, dan juga 
+    kutipan panjang:</p>
+    <blockquote>
+        "HTML adalah bahasa markup standar untuk membuat halaman web."
+    </blockquote>
+
+    <p>Contoh <mark>teks yang disorot</mark>, 
+    <small>teks kecil</small>, 
+    <abbr title="HyperText Markup Language">HTML</abbr>
+
+    <br>
+    <hr>
+
+    <h2>Hal-hal Yang Saya Suka</h2>
+
+    <h3>Minuman Favorit(Tulisan Tipe Angka)</h3>
+    <ol>
+        <li>Kopi</li>
+        <li>Matcha</li>
+        <li>Nomor 1&2</li>
+    </ol>
+
+    <h3>Makanan Favorit(Tulisan Tipe Kotak)</h3>
+    <ul>
+        <li>Ayam Penyet Bu Ria</li>
+        <li>Ayam Ganje Mas Indra</li>
+        <li>Gacoan WKWK</li>
+    </ul>
+
+    <h3>Description List</h3>
+    <dl>
+        <dt>HTML</dt>
+        <dd>Bahasa markup untuk membuat struktur web</dd>
+        <dt>CSS</dt>
+        <dd>Bahasa untuk mendesain tampilan web</dd>
+    </dl>
+
+    <h3>Nested List</h3>
+    <ul>
+        <li>Buah-buahan
+            <ul>
+                <li>Apel</li>
+                <li>Pisang</li>
+                <li>Jeruk</li>
+            </ul>
+        </li>
+        <li>Sayuran
+            <ol>
+                <li>Bayam</li>
+                <li>Wortel</li>
+                <li>Kangkung</li>
+            </ol>
+        </li>
+    </ul>
+
+    <hr>
+
+    <h2>Hyperlink dan Gambar</h2>
+    <p>Follow Instagram aku ya! hihi 
+        <a href="https://www.instagram.com/aanindya.st?igsh=N3d6cWw3NWI3Mzh2" target="_blank">aanindya.st</a>.
+    </p>
+
+    <p>Berikut contoh gambar:</p>
+    <img src="c:\Users\ASUS\Downloads\nganga.png" 
+         alt="Logo HTML5" width="200">
+         Halaman Web Widi Anindya Ditias&copy; 2025.</p>
+
+</body>
+</html>
+
+</HTMl:5>
